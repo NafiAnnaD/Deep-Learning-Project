@@ -14,4 +14,4 @@ Developing deep learning models that help prevent the surfacing of hateful rheto
 
 ## Datasets
 
-Ils faut qu'on choisissent nos datasets
+We chose the dataset from [SALT-NLP / Implicit hate](https://github.com/SALT-NLP/implicit-hate?tab=readme-ov-file). It can be downloaded directly from this links
